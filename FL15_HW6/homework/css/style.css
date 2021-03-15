@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.games,
+.footer {
+    background-color: #525252;
+}
+
+.btn-color {
+    background-color: coral;
+}
+
+.btn-color:hover {
+    background-color: lightcoral;
+}
